@@ -1,25 +1,25 @@
 {
-    "name": "Karman Musik",
-    "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
+    "name": "! Dimzz",
+    "description": "don't pm this BOT if you guys are just for fun!",
     "logo": "https://telegra.ph/file/ead703562aa39dafa9347.jpg",
     "keywords": [
     "python3",
     "telegram",
     "bot",
     "Karman",
-    "KarmanMusik",
+    "! Dimzz",
     "telegram-bot",
     "pyrogram"
     ],
     "stack": "container",
     "env": {
       "API_ID": {
-        "description": "Get this value from https://my.telegram.org",
+        "description": "24707785",
         "value": "",
         "required": true
       },
       "API_HASH": {
-        "description": "Get this value from https://my.telegram.org",
+        "description": "77d4d72c610c167806df6e01fab9561e",
         "value": "",
         "required": true
       },
@@ -29,7 +29,7 @@
         "required": true
       },
       "BOT_TOKEN": {
-        "description": "A Bot's token from Botfather",
+        "description": "5916817042:AAF-PHUPYPqKnL1LC50tOTOUUlVGLSb4tBo",
         "value": "",
         "required": true
       },
@@ -39,14 +39,14 @@
         "required": false
       },
       "MUSIC_BOT_NAME": {
-        "description": "A name for your Music Bot. Please don't use ascii characters",
+        "description": "! Dimzz",
         "value": "",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
         "value": "",
-        "required": true
+        "required": false
       },
       "STRING_SESSION1": {
         "description": "A Pyrogram String Session. One Assistant is Compulsory.",
